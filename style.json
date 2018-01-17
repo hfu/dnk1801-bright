@@ -3358,7 +3358,7 @@
           "Noto Sans Italic"
         ],
         "text-size": 14,
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-max-width": 5,
         "text-rotation-alignment": "map",
         "symbol-placement": "line",
@@ -3386,7 +3386,7 @@
           "Noto Sans Italic"
         ],
         "text-size": 14,
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-max-width": 5,
         "text-rotation-alignment": "map",
         "symbol-placement": "line",
@@ -3422,7 +3422,7 @@
           "Noto Sans Italic"
         ],
         "text-size": 14,
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-max-width": 5,
         "text-rotation-alignment": "map",
         "symbol-placement": "point",
@@ -3469,7 +3469,7 @@
             ]
           ]
         },
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-max-width": 5,
         "text-rotation-alignment": "map",
         "symbol-placement": "point",
@@ -3509,7 +3509,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "{class}_11",
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -3555,7 +3555,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "{class}_11",
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -3600,7 +3600,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "{class}_11",
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -3651,7 +3651,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "{class}_11",
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -3700,7 +3700,7 @@
         "text-font": [
           "Noto Sans Regular"
         ],
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "symbol-placement": "line",
         "text-rotation-alignment": "map"
       },
@@ -3748,7 +3748,7 @@
         "text-font": [
           "Noto Sans Regular"
         ],
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "symbol-placement": "line",
         "text-rotation-alignment": "map"
       },
@@ -3789,7 +3789,7 @@
         "text-font": [
           "Noto Sans Regular"
         ],
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "symbol-placement": "line",
         "text-rotation-alignment": "map"
       },
@@ -3983,7 +3983,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "airport_11",
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -4033,7 +4033,7 @@
         "text-font": [
           "Noto Sans Bold"
         ],
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-transform": "uppercase",
         "text-max-width": 9,
         "visibility": "visible"
@@ -4071,7 +4071,7 @@
             ]
           ]
         },
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-max-width": 8,
         "visibility": "visible"
       },
@@ -4108,7 +4108,7 @@
             ]
           ]
         },
-        "text-field": "{name:en}",
+        "text-field": "{name}",
         "text-max-width": 8,
         "visibility": "visible"
       },
